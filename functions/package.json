@@ -12,6 +12,7 @@
 		"logs": "firebase functions:log"
 	},
 	"dependencies": {
+		"acorn": "^6.0.5",
 		"ejs": "^2.6.1",
 		"express": "^4.16.4",
 		"firebase-admin": "^6.5.0",

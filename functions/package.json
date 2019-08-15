@@ -12,7 +12,8 @@
 		"logs": "firebase functions:log"
 	},
 	"dependencies": {
-		"acorn": "^6.2.1",
+		"acorn": "^6.3.0",
+		"acron": "^1.0.5",
 		"ejs": "^2.6.2",
 		"express": "^4.17.1",
 		"firebase-admin": "^8.3.0",

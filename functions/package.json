@@ -16,7 +16,7 @@
 		"acron": "^1.0.5",
 		"ejs": "^2.7.2",
 		"express": "^4.17.1",
-		"firebase-admin": "^8.4.0",
+		"firebase-admin": "^8.7.0",
 		"firebase-functions": "^3.3.0"
 	},
 	"devDependencies": {

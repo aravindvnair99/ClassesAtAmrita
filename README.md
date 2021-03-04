@@ -1,4 +1,4 @@
-# :school: ClassesAtAmrita
+# :school: ClassesAtAmrita ![](https://komarev.com/ghpvc/?username=AravindVNair99&label=Views)
 
 A class notes management system made originally for Amrita University based on HTML5, CSS3, Bootstrap, JS, Node.js, Express.js, Firebase Hosting, Firebase Cloud Functions and Firebase Storage.
 

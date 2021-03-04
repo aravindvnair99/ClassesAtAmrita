@@ -14,14 +14,14 @@
 	"dependencies": {
 		"acorn": "^7.4.1",
 		"acron": "^1.0.5",
-		"ejs": "^3.1.6",
+		"ejs": "^3.1.5",
 		"express": "^4.17.1",
-		"firebase-admin": "^8.13.0",
-		"firebase-functions": "^3.13.2"
+		"firebase-admin": "^9.1.1",
+		"firebase-functions": "^3.11.0"
 	},
 	"devDependencies": {
-		"eslint": "^6.8.0",
-		"eslint-plugin-promise": "^4.3.1"
+		"eslint": "^7.8.1",
+		"eslint-plugin-promise": "^4.2.1"
 	},
 	"engines": {
 		"node": "8"

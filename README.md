@@ -15,7 +15,6 @@ This project is licensed under the MIT license - see the [LICENSE](LICENSE) file
 # :family: Team
 
 * **Aravind V. Nair** - *Front-end, Back-end and Security* - [AravindVNair99](https://github.com/aravindvnair99)
-* **Mani Kumar** - *Files and Original idea*
 
 See the full list of [contributors](https://github.com/aravindvnair99/ClassesAtAmrita/graphs/contributors) who participated in this project and statistics.
 
